@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickeyw0w
 - 👀 I’m professional in Corporate Financial Planning & Analysis
-- 👀 I’m interested in Automatization of Financial Procedures inside company
+- 👀 I’m interested in: Automatization of Financial Procedures inside company, Economics and cost-saving technologies
 - 🌱 I’m currently learning Python libraries which allow to do above things
 
 <!---
